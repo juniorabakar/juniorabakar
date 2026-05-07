@@ -78,37 +78,14 @@
 
 ---
 
-## Missions actives
+## Projets
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  MISSION 01  ·  Mon_SOC_LAB                    [COMPLÉTÉ]   │
-│  ─────────────────────────────────────────────────────────  │
-│  Simulation MITRE ATT&CK T1547 · Splunk · Sysmon           │
-│  Détection de persistance Windows — Red & Blue Team         │
-│  → github.com/juniorabakar/Mon_SOC_LAB                      │
-├─────────────────────────────────────────────────────────────┤
-│  MISSION 02  ·  SOC_Alerts                     [EN COURS]   │
-│  ─────────────────────────────────────────────────────────  │
-│  Write-ups d'alertes SOC réelles — LetsDefend               │
-│  Phishing · Malware · Investigation                         │
-│  → github.com/juniorabakar/SOC_Alerts                       │
-├─────────────────────────────────────────────────────────────┤
-│  MISSION 03  ·  GRC_Projects              [EN DÉPLOIEMENT]  │
-│  ─────────────────────────────────────────────────────────  │
-│  SMSI ISO 27001 · NIST CSF · TPRM · Évaluation de risques  │
-│  Cas pratiques documentés — approche terrain                │
-│  → coming soon                                              │
-├─────────────────────────────────────────────────────────────┤
-│  MISSION 04  ·  Pentest_Labs              [EN DÉPLOIEMENT]  │
-│  ─────────────────────────────────────────────────────────  │
-│  Labs offensifs — Préparation eJPT                         │
-│  Méthodologie · Recon · Exploitation documentée             │
-│  → coming soon                                              │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
+| Projet | Statut | Description |
+|--------|--------|-------------|
+| [Mon_SOC_LAB](https://github.com/juniorabakar/Mon_SOC_LAB) | `COMPLÉTÉ` | Simulation MITRE T1547 · Splunk · Sysmon |
+| [SOC_Alerts](https://github.com/juniorabakar/SOC_Alerts) | `EN COURS` | Write-ups alertes SOC · Phishing · Malware |
+| GRC_Projects | `EN DÉPLOIEMENT` | SMSI · NIST CSF · TPRM · Évaluation de risques |
+| Pentest_Labs | `EN DÉPLOIEMENT` | Labs eJPT · Recon · Exploitation |
 
 ## Statistiques
 
