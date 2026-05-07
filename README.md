@@ -13,16 +13,14 @@
 ---
 
 > Bonjour, je m'appelle **Junior Abakar**, fraîchement diplômé d'un **Master 2 Cybersécurité** à l'Université de Rennes 1.
-> Motivé par les enjeux de sécurité informatique, je cherche à aider durablement les entreprises
-> sur le pilotage de la gouvernance, l'analyse des risques et la mise en conformité
-> en mobilisant ma culture technique, ma rigueur et ma capacité à travailler avec différents métiers.
-> J'ai pu mettre cela en pratique pendant **6 mois chez Volkswagen Financial Services**
-> en conformité RGPD, gestion des risques tiers (TPRM) et registre de risques SI.
-> Convaincu que la formation continue est indissociable de ce domaine, je me forme activement
-> en parallèle — actuellement en préparation de l'**eJPT** pour renforcer ma dimension offensive,
-> tout en développant des projets pratiques SOC et GRC documentés sur GitHub.
-> Je recherche activement un poste en **GRC** (consultant, auditeur ou ingénieur),
-> ouvert également au **SOC** et dans une moindre mesure au **pentest**.
+>
+> Motivé par les enjeux de sécurité informatique, je cherche à aider durablement les entreprises sur le pilotage de la gouvernance, l'analyse des risques et la mise en conformité — en mobilisant ma culture technique, ma rigueur et ma capacité à travailler avec différents métiers.
+>
+> J'ai pu mettre cela en pratique pendant **6 mois chez Volkswagen Financial Services** — conformité RGPD, gestion des risques tiers (TPRM) et registre de risques SI.
+>
+> Convaincu que la formation continue est indissociable de ce domaine, je prépare activement l'**eJPT** tout en développant des projets pratiques SOC et GRC documentés sur GitHub.
+>
+> Je recherche activement un poste en **GRC** (consultant, auditeur ou ingénieur), ouvert également au **SOC** et dans une moindre mesure au **pentest**.
 ---
 
 ## Certifications
