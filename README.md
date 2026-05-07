@@ -39,19 +39,13 @@
 
 ## Parcours
 
-<details>
-<summary>Vue technique — Terminal</summary>
+<div align="center">
 
-![terminal](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/terminal.svg)
+| Vue technique | Vue stratégique |
+|:---:|:---:|
+| ![terminal](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/terminal.svg) | ![grc](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/timeline_elegant.svg) |
 
-</details>
-
-<details>
-<summary>Vue stratégique — Timeline</summary>
-
-![timeline](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/timeline_elegant.svg)
-
-</details>
+</div>
 
 ## Stack & Compétences
 
