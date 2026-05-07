@@ -18,6 +18,9 @@
 > en mobilisant ma culture technique, ma rigueur et ma capacité à travailler avec différents métiers.
 > J'ai pu mettre cela en pratique pendant **6 mois chez Volkswagen Financial Services**
 > en conformité RGPD, gestion des risques tiers (TPRM) et registre de risques SI.
+> Convaincu que la formation continue est indissociable de ce domaine, je me forme activement
+> en parallèle — actuellement en préparation de l'**eJPT** pour renforcer ma dimension offensive,
+> tout en développant des projets pratiques SOC et GRC documentés sur GitHub.
 > Je recherche activement un poste en **GRC** (consultant, auditeur ou ingénieur),
 > ouvert également au **SOC** et dans une moindre mesure au **pentest**.
 ---
