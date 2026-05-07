@@ -87,36 +87,16 @@
 | GRC_Projects | `EN DÉPLOIEMENT` | SMSI · NIST CSF · TPRM · Évaluation de risques |
 | Pentest_Labs | `EN DÉPLOIEMENT` | Labs eJPT · Recon · Exploitation |
 
-## Statistiques
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorabakar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=4a9eff&icon_color=0ea5a0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorabakar&layout=compact&theme=tokyonight&hide_border=true&title_color=4a9eff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=juniorabakar&theme=tokyonight&hide_border=true&ring=4a9eff&fire=0ea5a0&currStreakLabel=4a9eff)
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
 
-```
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│   Disponible immédiatement — CDI                          │
-│   Consultant · Auditeur · Ingénieur GRC                   │
-│   Île-de-France · Télétravail                             │
-│                                                           │
-│   juniorabakar07@gmail.com                                │
-│   linkedin.com/in/junior-abakar-551150265                 │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
+![Localisation](https://img.shields.io/badge/📍_France-0a1e3d?style=flat-square)
+![Remote](https://img.shields.io/badge/🌐_Télétravail_ou_présentiel-0a1e3d?style=flat-square)
+![Dispo](https://img.shields.io/badge/✅_Disponible_immédiatement-0ea5a0?style=flat-square)
+
+[![Email](https://img.shields.io/badge/juniorabakar07@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juniorabakar07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/junior--abakar-0A66C2?style=flat-square)](https://www.linkedin.com/in/junior-abakar-551150265/)
 
 </div>
 
