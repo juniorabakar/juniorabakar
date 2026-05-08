@@ -42,9 +42,7 @@
 
 <div align="center">
 
-| Vue technique | Vue stratégique |
-|:---:|:---:|
-| ![terminal](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/terminal.svg) | ![grc](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/timeline_elegant.svg) |
+![terminal](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/terminal.svg)
 
 </div>
 
