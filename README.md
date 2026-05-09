@@ -57,24 +57,24 @@ Disponible immédiatement — CDI · GRC · SOC · Île-de-France / Télétravai
 
 ### GRC & Conformité
 [![ISO 27001](https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square)](https://www.iso27001security.com/)
-[![NIST CSF](https://img.shields.io/badge/NIST_CSF-1F618D?style=flat-square)](https://www.ssi.gouv.fr/entreprise/reglementation/cybersecurite-et-conformite/nist/)
+[![NIST CSF](https://img.shields.io/badge/NIST_CSF-1F618D?style=flat-square)](https://www.proofpoint.com/fr/threat-reference/nist-cybersecurity-framework)
 [![NIST 800-53](https://img.shields.io/badge/NIST_800--53-1A5276?style=flat-square)](https://cyber.gouv.fr/publications/le-guide-dhygiene-informatique)
 [![RGPD](https://img.shields.io/badge/RGPD-2471A3?style=flat-square)](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on)
-[![TPRM](https://img.shields.io/badge/TPRM-154360?style=flat-square)](https://www.ssi.gouv.fr/entreprise/bonnes-pratiques/relations-avec-les-prestataires/)
+[![TPRM](https://img.shields.io/badge/TPRM-154360?style=flat-square)](https://www.servicenow.com/fr/products/governance-risk-and-compliance/what-is-third-party-risk-management.html)
 [![Risk Management](https://img.shields.io/badge/Risk_Management-1B4F72?style=flat-square)](https://www.cnil.fr/fr/securite-analyse-de-risques)
-[![GRC](https://img.shields.io/badge/GRC-6C3483?style=flat-square)](https://www.ssi.gouv.fr/entreprise/reglementation/)
+[![GRC](https://img.shields.io/badge/GRC-6C3483?style=flat-square)](https://www.trendmicro.com/fr_fr/what-is/governance-risk-management-and-compliance-grc.html)
 
 ### SOC & Technique
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://docs.splunk.com/Documentation/Splunk)
-[![SIEM](https://img.shields.io/badge/SIEM-117A65?style=flat-square)](https://www.ssi.gouv.fr/entreprise/bonnes-pratiques/detecter-une-cyberattaque/)
+[![SIEM](https://img.shields.io/badge/SIEM-117A65?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-siem)
 [![Sysmon](https://img.shields.io/badge/Sysmon-196F3D?style=flat-square)](https://learn.microsoft.com/fr-fr/sysinternals/downloads/sysmon)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E74C3C?style=flat-square)](https://attack.mitre.org/)
-[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-C0392B?style=flat-square)](https://www.ssi.gouv.fr/entreprise/bonnes-pratiques/comprendre-les-cyberattaques/)
-[![Log Analysis](https://img.shields.io/badge/Log_Analysis-1E8449?style=flat-square)](https://www.ssi.gouv.fr/guide/recommandations-de-securite-pour-la-journalisation-des-systemes-microsoft-windows-en-environnement-active-directory/)
+[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-C0392B?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-cyber-kill-chain)
+[![Log Analysis](https://img.shields.io/badge/Log_Analysis-1E8449?style=flat-square)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/next-gen-siem/log-analysis/)
 
 ### Systèmes & Scripting
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://doc.ubuntu-fr.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://learn.microsoft.com/fr-fr/windows-server/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)]([https://learn.microsoft.com/fr-fr/windows-server/](https://www.microsoft.com/fr-fr/windows?r=1))
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/fr/3/)
 </div>
