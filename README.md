@@ -12,7 +12,7 @@
 
 ---
 
-> Bonjour, je m'appelle **Junior Abakar**, diplômé d'un **Master 2 Cybersécurité** à l'Université de Rennes 1.
+> Bonjour, je m'appelle **Junior Abakar**, diplômé en cybersécurité.
 >
 > Motivé par les enjeux de sécurité informatique, je cherche à aider durablement les entreprises sur le pilotage de la gouvernance, l'analyse des risques et la mise en conformité — en mobilisant ma culture technique, ma rigueur et ma capacité à travailler avec différents métiers.
 > 
