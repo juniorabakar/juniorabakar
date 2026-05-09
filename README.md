@@ -74,7 +74,7 @@ Disponible immédiatement — CDI · GRC · SOC · Île-de-France / Télétravai
 
 ### Systèmes & Scripting
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://doc.ubuntu-fr.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://fr.wikipedia.org/wiki/Microsoft_Windows))
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://doc.ubuntu-fr.org/tutoriel/script_shell)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/fr/3/)
 </div>
