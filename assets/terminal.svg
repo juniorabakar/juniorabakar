@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 460" width="700" height="460">
+  <defs>
+    <style>
+      .line { opacity: 0; animation: appear 0.1s ease forwards; }
+      .cursor { animation: blink 1s step-end infinite; }
+
+      .l01 { animation-delay: 0.5s; }
+      .l02 { animation-delay: 1.2s; }
+      .l03 { animation-delay: 1.9s; }
+      .l04 { animation-delay: 2.4s; }
+      .l05 { animation-delay: 2.9s; }
+      .l06 { animation-delay: 3.6s; }
+      .l07 { animation-delay: 4.1s; }
+      .l08 { animation-delay: 4.6s; }
+      .l09 { animation-delay: 5.1s; }
+      .l10 { animation-delay: 5.8s; }
+      .l11 { animation-delay: 6.3s; }
+      .l12 { animation-delay: 6.8s; }
+      .l13 { animation-delay: 7.3s; }
+      .l14 { animation-delay: 8.0s; }
+      .l15 { animation-delay: 8.5s; }
+      .l16 { animation-delay: 9.0s; }
+      .l17 { animation-delay: 9.5s; }
+      .l18 { animation-delay: 10.2s; }
+      .l19 { animation-delay: 10.7s; }
+
+      @keyframes appear { to { opacity: 1; } }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#090d13"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Terminal window -->
+  <rect width="700" height="460" rx="10" fill="url(#bg)" stroke="#1e2a3a" stroke-width="1.5"/>
+
+  <!-- Title bar -->
+  <rect width="700" height="36" rx="10" fill="#161b22"/>
+  <rect y="26" width="700" height="10" fill="#161b22"/>
+
+  <!-- Window buttons -->
+  <circle cx="20" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="60" cy="18" r="6" fill="#28c840"/>
+
+  <!-- Terminal title -->
+  <text x="350" y="23" font-family="'Fira Code', monospace" font-size="12" fill="#4a9eff" text-anchor="middle" opacity="0.7">junior@abakar: ~/parcours</text>
+
+  <!-- Line 1: command -->
+  <g class="line l01">
+    <text x="20" y="68" font-family="'Fira Code', monospace" font-size="12" fill="#4a9eff">junior@abakar</text>
+    <text x="145" y="68" font-family="'Fira Code', monospace" font-size="12" fill="#ffffff">:</text>
+    <text x="153" y="68" font-family="'Fira Code', monospace" font-size="12" fill="#0ea5a0">~/parcours</text>
+    <text x="246" y="68" font-family="'Fira Code', monospace" font-size="12" fill="#ffffff">$ cat career.log</text>
+  </g>
+
+  <!-- Line 2: separator -->
+  <g class="line l02">
+    <text x="20" y="90" font-family="'Fira Code', monospace" font-size="11" fill="#1e3a5a">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+  </g>
+
+  <!-- Line 3: FORMATION header -->
+  <g class="line l03">
+    <text x="20" y="114" font-family="'Fira Code', monospace" font-size="11" fill="#4a9eff" font-weight="600">[FORMATION]</text>
+  </g>
+
+  <!-- Line 4 -->
+  <g class="line l04">
+    <text x="20" y="136" font-family="'Fira Code', monospace" font-size="11" fill="#4a6fa5">  2020-2023</text>
+    <text x="105" y="136" font-family="'Fira Code', monospace" font-size="11" fill="#ffffff">  Licence Informatique MPCIE</text>
+    <text x="370" y="136" font-family="'Fira Code', monospace" font-size="11" fill="#4a9eff88">  · Université d'Angers</text>
+  </g>
+
+  <!-- Line 5 -->
+  <g class="line l05">
+    <text x="20" y="158" font-family="'Fira Code', monospace" font-size="11" fill="#4a6fa5">  2023-2024</text>
+    <text x="105" y="158" font-family="'Fira Code', monospace" font-size="11" fill="#ffffff">  Master 1 Ingénierie du Logiciel</text>
+    <text x="370" y="158" font-family="'Fira Code', monospace" font-size="11" fill="#4a9eff88">  · Université d'Avignon</text>
+  </g>
+
+  <!-- Line 6 -->
+  <g class="line l06">
+    <text x="20" y="180" font-family="'Fira Code', monospace" font-size="11" fill="#4a6fa5">  2024-2025</text>
+    <text x="105" y="180" font-family="'Fira Code', monospace" font-size="11" fill="#4a9eff" font-weight="600">  Master 2 Cybersécurité</text>
+    <text x="370" y="180" font-family="'Fira Code', monospace" font-size="11" fill="#4a9eff88">  · Rennes 1 / Cyberschool</text>
+  </g>
+
+  <!-- Line 7: separator -->
+  <g class="line l07">
+    <text x="20" y="202" font-family="'Fira Code', monospace" font-size="11" fill="#1e3a5a">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+  </g>
+
+  <!-- Line 8: EXPERIENCE header -->
+  <g class="line l08">
+    <text x="20" y="224" font-family="'Fira Code', monospace" font-size="11" fill="#0ea5a0" font-weight="600">[EXPÉRIENCE]</text>
+  </g>
+
+  <!-- Line 9 -->
+  <g class="line l09">
+    <text x="20" y="246" font-family="'Fira Code', monospace" font-size="11" fill="#4a6fa5">  03-09/2025</text>
+    <text x="105" y="246" font-family="'Fira Code', monospace" font-size="11" fill="#0ea5a0" font-weight="600">  Consultant Stagiaire Cybersécurité</text>
+  </g>
+
+  <!-- Line 10 -->
+  <g class="line l10">
+    <text x="105" y="268" font-family="'Fira Code', monospace" font-size="11" fill="#5dd8d0">             Volkswagen Financial Services</text>
+    <text x="420" y="268" font-family="'Fira Code', monospace" font-size="11" fill="#0ea5a088">  · Roissy-en-France</text>
+  </g>
+
+  <!-- Line 11 -->
+  <g class="line l11">
+    <text x="105" y="288" font-family="'Fira Code', monospace" font-size="10" fill="#4a9eff88">             ↳ RGPD · TPRM · Registre de risques SI · AIPD</text>
+  </g>
+
+  <!-- Line 12: separator -->
+  <g class="line l12">
+    <text x="20" y="310" font-family="'Fira Code', monospace" font-size="11" fill="#1e3a5a">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+  </g>
+
+  <!-- Line 13: STATUS -->
+  <g class="line l13">
+    <text x="20" y="332" font-family="'Fira Code', monospace" font-size="11" fill="#febc2e" font-weight="600">[STATUT ACTUEL]</text>
+  </g>
+
+  <!-- Line 14 -->
+  <g class="line l14">
+    <text x="20" y="354" font-family="'Fira Code', monospace" font-size="11" fill="#4a6fa5">  eJPT</text>
+    <text x="65" y="354" font-family="'Fira Code', monospace" font-size="11" fill="#febc2e">             EN COURS</text>
+    <text x="250" y="354" font-family="'Fira Code', monospace" font-size="11" fill="#4a9eff88">  · Labs SOC · GRC Projects</text>
+  </g>
+
+  <!-- Line 15 -->
+  <g class="line l15">
+    <text x="20" y="376" font-family="'Fira Code', monospace" font-size="11" fill="#4a6fa5">  CDI · CDD</text>
+    <text x="115" y="376" font-family="'Fira Code', monospace" font-size="11" fill="#28c840">          GRC · SOC · Pentest</text>
+    <text x="340" y="376" font-family="'Fira Code', monospace" font-size="11" fill="#4a9eff88">  · IDF / Remote</text>
+  </g>
+
+  <!-- Line 16: separator -->
+  <g class="line l16">
+    <text x="20" y="398" font-family="'Fira Code', monospace" font-size="11" fill="#1e3a5a">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</text>
+  </g>
+
+  <!-- Line 17: success -->
+  <g class="line l17">
+    <text x="20" y="420" font-family="'Fira Code', monospace" font-size="11" fill="#28c840">✓ EOF — </text>
+    <text x="95" y="420" font-family="'Fira Code', monospace" font-size="11" fill="#4a9eff88">Disponible immédiatement · juniorabakar07@gmail.com</text>
+  </g>
+
+  <!-- Line 18: next prompt + cursor -->
+  <g class="line l18">
+    <text x="20" y="444" font-family="'Fira Code', monospace" font-size="12" fill="#4a9eff">junior@abakar</text>
+    <text x="145" y="444" font-family="'Fira Code', monospace" font-size="12" fill="#ffffff">:</text>
+    <text x="153" y="444" font-family="'Fira Code', monospace" font-size="12" fill="#0ea5a0">~/parcours</text>
+    <text x="246" y="444" font-family="'Fira Code', monospace" font-size="12" fill="#ffffff">$ </text>
+    <rect class="line l19 cursor" x="270" y="432" width="8" height="14" fill="#4a9eff"/>
+  </g>
+
+</svg>
