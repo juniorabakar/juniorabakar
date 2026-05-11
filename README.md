@@ -43,7 +43,7 @@
 <div align="center">
 <sub>
 Diplômé d'un Master 2 Cybersécurité à l'Université de Rennes 1, après un parcours en ingénierie informatique à Angers et Avignon.
-6 mois d'expérience chez Volkswagen Financial Services — conformité RGPD, gestion des risques tiers et sécurité des systèmes d'information.
+6 mois d'expérience chez Volkswagen Financial Services en conformité RGPD, gestion des risques tiers et sécurité des systèmes d'information.
 Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en cours de développement.
 Disponible immédiatement — CDI · CDD · GRC · SOC · Île-de-France / Télétravail.
 </sub>
