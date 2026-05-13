@@ -14,9 +14,9 @@
 
 > Bonjour, je m'appelle **Junior Abakar**, diplômé en cybersécurité.
 >
-> Motivé par les enjeux de sécurité informatique, je cherche à aider durablement les entreprises sur le pilotage de la gouvernance, l'analyse des risques et la mise en conformité en mobilisant ma culture technique, ma rigueur et ma capacité à travailler avec différents métiers.
+> Motivé par les enjeux de sécurité informatique, je cherche à aider les entreprises à structurer leur gouvernance et leur conformité, détecter et investiguer les incidents, et identifier leurs vulnérabilités.
 > 
-> Je recherche activement un poste en **GRC** (consultant, auditeur ou ingénieur), ouvert au **SOC** et dans une moindre mesure au **pentest**.
+> Je recherche activement un poste en tant qu'ingénieur cybersécurité junior.
 ---
 
 ## Certifications
