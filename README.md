@@ -4,7 +4,7 @@
 ![opening](https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20GRC%20sans%20technique%20est%20un%20plan.%20La%20technique%20sans%20GRC%20est%20un%20chaos.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn)
 
 <!-- Header nom -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersécurité%20%7C%20GRC%20·%20SOC%20·%20Pentest&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersécurité%20%7C%20GRC%20·%20SOC%20&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=Gouvernance+%C2%B7+Risques+%C2%B7+Conformit%C3%A9;ISO+27001+Lead+Auditor+%C2%B7+CompTIA+Security%2B;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK;Master+2+Cybersécurité+—+Université+de+Rennes+1;eJPT+en+cours+%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
@@ -16,7 +16,7 @@
 >
 > Motivé par les enjeux de sécurité informatique, je cherche à aider durablement les entreprises sur le pilotage de la gouvernance, l'analyse des risques et la mise en conformité en mobilisant ma culture technique, ma rigueur et ma capacité à travailler avec différents métiers.
 > 
-> Je recherche activement un poste en **GRC** (consultant, auditeur ou ingénieur), ouvert au **SOC** et dans une moindre mesure au **pentest**.
+> Je recherche activement un poste de consultant **GRC**, également ouvert aux postes **SOC**.
 ---
 
 ## Certifications
@@ -45,7 +45,6 @@
 Diplômé d'un Master 2 Cybersécurité à l'Université de Rennes 1, après un parcours en ingénierie informatique à Angers et Avignon.
 6 mois d'expérience chez Volkswagen Financial Services en conformité RGPD, gestion des risques tiers et sécurité des systèmes d'information.
 Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en cours de développement.
-Disponible immédiatement — CDI · CDD · GRC · SOC · Île-de-France / Télétravail.
 </sub>
 </div>
 
@@ -72,6 +71,12 @@ Disponible immédiatement — CDI · CDD · GRC · SOC · Île-de-France / Tél�
 [![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-C0392B?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-cyber-kill-chain)
 [![Log Analysis](https://img.shields.io/badge/Log_Analysis-1E8449?style=flat-square)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/next-gen-siem/log-analysis/)
 
+### Pentest
+[![Nmap](https://img.shields.io/badge/Nmap-4a9eff?style=flat-square)](https://nmap.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-c0392b?style=flat-square)](https://www.metasploit.com/)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6b35?style=flat-square)](https://portswigger.net/burp)
+[![Nessus](https://img.shields.io/badge/Nessus-00C0B8?style=flat-square)](https://fr.tenable.com/products/nessus)
+
 ### Systèmes & Scripting
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://doc.ubuntu-fr.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://learn.microsoft.com/fr-fr/windows/)
@@ -94,7 +99,7 @@ Disponible immédiatement — CDI · CDD · GRC · SOC · Île-de-France / Tél�
 
 <div align="center">
 
-📍 France &nbsp;·&nbsp; 🌐 Télétravail ou présentiel &nbsp;·&nbsp; ✅ Disponible immédiatement
+📍 France &nbsp;·&nbsp; 🌐 Télétravail ou présentiel &nbsp;·&nbsp; ✅ Disponible
 
 
 [![Email](https://img.shields.io/badge/juniorabakar07@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juniorabakar07@gmail.com)
