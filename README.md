@@ -4,7 +4,7 @@
 ![opening](https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20GRC%20sans%20technique%20est%20un%20plan.%20La%20technique%20sans%20GRC%20est%20un%20chaos.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn)
 
 <!-- Header nom -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersécurité%20%7C%20GRC%20·%20SOC%20&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersécurité%20%7C%20GRC%20·%20SOC%20·%20Pentest%20&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=Gouvernance+%C2%B7+Risques+%C2%B7+Conformit%C3%A9;ISO+27001+Lead+Auditor+%C2%B7+CompTIA+Security%2B;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK;Master+2+Cybersécurité+—+Université+de+Rennes+1;eJPT+en+cours+%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
