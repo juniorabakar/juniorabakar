@@ -88,10 +88,11 @@ Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en
 
 | Projet | Statut | Description |
 |--------|--------|-------------|
-| [Pentest_Labs](https://github.com/juniorabakar/Pentest-Labs) | `ACTIF` | Labs eJPT · Recon · Exploitation |
+| [GRC_Projects](https://github.com/juniorabakar/GRC-projects) | `EN COURS` | SMSI · NIST CSF · TPRM · Réponse aux incidents |
 | [Mon_SOC_LAB](https://github.com/juniorabakar/Mon_SOC_LAB) | `TERMINE` | Simulation MITRE T1547 · Splunk · Sysmon |
 | [SOC_Alerts](https://github.com/juniorabakar/SOC_Alerts) | `ACTIF` | Write-ups alertes SOC · Phishing · Malware |
-| [GRC_Projects](https://github.com/juniorabakar/GRC-projects) | `EN COURS` | SMSI · NIST CSF · TPRM · Réponse aux incidents |
+| [Pentest_Labs](https://github.com/juniorabakar/Pentest-Labs) | `ACTIF` | Labs eJPT · Recon · Exploitation |
+
 
 
 ## Contact
