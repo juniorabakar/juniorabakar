@@ -14,9 +14,9 @@
 
 > Bonjour, je m'appelle **Junior Abakar**, diplômé en cybersécurité.
 >
-> Motivé par les enjeux de sécurité informatique, je cherche à aider durablement les entreprises sur le pilotage de la gouvernance, l'analyse des risques et la mise en conformité en mobilisant ma culture technique, ma rigueur et ma capacité à travailler avec différents métiers.
+> Passionné par la sécurité offensive et défensive, je développe mes compétences en tests d'intrusion, détection SOC et gouvernance. Je cherche à mettre ma rigueur technique et ma curiosité au service d'équipes expertes.
 > 
-> Je recherche activement un poste de consultant **GRC**, également ouvert aux postes **SOC**.
+> Je recherche activement un poste en **cybersécurité offensive** ou **SOC**, avec une solide culture **GRC**.
 ---
 
 ## Certifications
