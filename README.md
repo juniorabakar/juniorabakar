@@ -3,18 +3,22 @@
 ![opening](https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20GRC%20sans%20technique%20est%20un%20plan.%20La%20technique%20sans%20GRC%20est%20un%20chaos.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn)
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersécurité%20%7C%20GRC%20·%20SOC%20&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersécurité%20%7C%20SOC%20·%20GRC%20&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=Gouvernance+%C2%B7+Risques+%C2%B7+Conformit%C3%A9;ISO+27001+Lead+Auditor+%C2%B7+CompTIA+Security%2B;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK;Master+2+Cybersécurité+—+Université+de+Rennes+1;eJPT+en+cours+%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=Détection+%C2%B7+Investigation+%C2%B7+Réponse+aux+incidents;ISO+27001+Lead+Auditor+%C2%B7+CompTIA+Security%2B;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK;Master+2+Cybersécurité+—+Université+de+Rennes+1;eJPT+en+cours+%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
 </div>
 
 ---
 
+Bonjour, je m'appelle Junior Abakar, diplômé en cybersécurité.
+
+
+
 > Bonjour, je m'appelle **Junior Abakar**, diplômé en cybersécurité.
 >
-> Motivé par les enjeux de sécurité informatique, je cherche à aider durablement les entreprises sur le pilotage de la gouvernance, l'analyse des risques et la mise en conformité en mobilisant ma culture technique, ma rigueur et ma capacité à travailler avec différents métiers.
+> Passionné par la détection, l'investigation et la réponse aux incidents, je développe activement mes compétences en cybersécurité opérationnelle à travers des projets pratiques SOC et pentest.
 > 
-> Je recherche activement un poste de consultant **GRC**, également ouvert aux postes **SOC**.
+> Je recherche activement un poste d'**Analyste SOC** ou **Technicien Cybersécurité**, avec une solide culture **GRC**.
 ---
 
 ## Certifications
@@ -22,11 +26,12 @@
 <div align="center">
 
 [![CompTIA Security+](https://images.credly.com/size/150x150/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/ad1a6a18-c94d-49d7-9495-4338c5a701a4)
-[![ISO 27001 Lead Auditor](https://images.credly.com/size/150x150/images/e751d38f-3b06-4be1-b127-240cb097cf70/blob)](https://www.credly.com/badges/cf034a35-b54f-4ea0-aa47-bb982f0b1dab)
-[![GRC Mastery](https://images.credly.com/size/150x150/images/e371784e-6b30-4177-bea5-ad0838679da3/blob)](https://www.credly.com/badges/559747af-8903-40c0-95aa-8ac8a6c32c43)
 <a href="https://app.letsdefend.io/certificate/show/fd5e50a5-6855-4643-97cb-dbfab65f0a88">
   <img src="https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/Letsdefend_badge.png" width="150"/>
 </a>
+[![ISO 27001 Lead Auditor](https://images.credly.com/size/150x150/images/e751d38f-3b06-4be1-b127-240cb097cf70/blob)](https://www.credly.com/badges/cf034a35-b54f-4ea0-aa47-bb982f0b1dab)
+[![GRC Mastery](https://images.credly.com/size/150x150/images/e371784e-6b30-4177-bea5-ad0838679da3/blob)](https://www.credly.com/badges/559747af-8903-40c0-95aa-8ac8a6c32c43)
+
 
 </div>
 
@@ -52,6 +57,14 @@ Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en
 
 <div align="center">
 
+### SOC & Technique
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://docs.splunk.com/Documentation/Splunk)
+[![SIEM](https://img.shields.io/badge/SIEM-117A65?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-siem)
+[![Sysmon](https://img.shields.io/badge/Sysmon-196F3D?style=flat-square)](https://learn.microsoft.com/fr-fr/sysinternals/downloads/sysmon)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E74C3C?style=flat-square)](https://attack.mitre.org/)
+[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-C0392B?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-cyber-kill-chain)
+[![Log Analysis](https://img.shields.io/badge/Log_Analysis-1E8449?style=flat-square)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/next-gen-siem/log-analysis/)
+
 ### GRC & Conformité
 [![ISO 27001](https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square)](https://www.iso27001security.com/)
 [![NIST CSF](https://img.shields.io/badge/NIST_CSF-1F618D?style=flat-square)](https://www.proofpoint.com/fr/threat-reference/nist-cybersecurity-framework)
@@ -60,14 +73,6 @@ Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en
 [![TPRM](https://img.shields.io/badge/TPRM-154360?style=flat-square)](https://www.servicenow.com/fr/products/governance-risk-and-compliance/what-is-third-party-risk-management.html)
 [![Risk Management](https://img.shields.io/badge/Risk_Management-1B4F72?style=flat-square)](https://www.cnil.fr/fr/securite-analyse-de-risques)
 [![GRC](https://img.shields.io/badge/GRC-6C3483?style=flat-square)](https://www.trendmicro.com/fr_fr/what-is/governance-risk-management-and-compliance-grc.html)
-
-### SOC & Technique
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://docs.splunk.com/Documentation/Splunk)
-[![SIEM](https://img.shields.io/badge/SIEM-117A65?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-siem)
-[![Sysmon](https://img.shields.io/badge/Sysmon-196F3D?style=flat-square)](https://learn.microsoft.com/fr-fr/sysinternals/downloads/sysmon)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E74C3C?style=flat-square)](https://attack.mitre.org/)
-[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-C0392B?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-cyber-kill-chain)
-[![Log Analysis](https://img.shields.io/badge/Log_Analysis-1E8449?style=flat-square)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/next-gen-siem/log-analysis/)
 
 ### Pentest
 [![Nmap](https://img.shields.io/badge/Nmap-4a9eff?style=flat-square)](https://nmap.org/)
@@ -88,9 +93,9 @@ Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en
 
 | Projet | Statut | Description |
 |--------|--------|-------------|
-| [GRC_Projects](https://github.com/juniorabakar/GRC-projects) | `EN COURS` | SMSI · NIST CSF · TPRM · Réponse aux incidents |
 | [Mon_SOC_LAB](https://github.com/juniorabakar/Mon_SOC_LAB) | `TERMINE` | Simulation MITRE T1547 · Splunk · Sysmon |
 | [SOC_Alerts](https://github.com/juniorabakar/SOC_Alerts) | `ACTIF` | Write-ups alertes SOC · Phishing · Malware |
+| [GRC_Projects](https://github.com/juniorabakar/GRC-projects) | `EN COURS` | SMSI · NIST CSF · TPRM · Réponse aux incidents |
 | [Pentest_Labs](https://github.com/juniorabakar/Pentest-Labs) | `ACTIF` | Labs eJPT · Recon · Exploitation |
 
 
