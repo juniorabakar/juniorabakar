@@ -16,9 +16,9 @@ Bonjour, je m'appelle Junior Abakar, diplômé en cybersécurité.
 
 > Bonjour, je m'appelle **Junior Abakar**, diplômé en cybersécurité.
 >
-> Passionné par la détection, l'investigation et la réponse aux incidents, je développe activement mes compétences en cybersécurité opérationnelle à travers des projets pratiques SOC et pentest.
+> Motivé par les enjeux de sécurité informatique, je cherche à aider durablement les entreprises sur le pilotage de la gouvernance, l'analyse des risques et la mise en conformité, en mobilisant ma culture technique et ma capacité à travailler avec différents métiers.
 > 
-> Je recherche activement un poste d'**Analyste SOC** ou **Technicien Cybersécurité**, avec une solide culture **GRC**.
+> Je recherche activement un poste de **consultant Cybersécurité - GRC** ou **ingénieur cybersécurité**, avec une appétence pour la détection et les aspects offensifs.
 ---
 
 ## Certifications
@@ -57,14 +57,6 @@ Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en
 
 <div align="center">
 
-### SOC & Technique
-[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://docs.splunk.com/Documentation/Splunk)
-[![SIEM](https://img.shields.io/badge/SIEM-117A65?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-siem)
-[![Sysmon](https://img.shields.io/badge/Sysmon-196F3D?style=flat-square)](https://learn.microsoft.com/fr-fr/sysinternals/downloads/sysmon)
-[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E74C3C?style=flat-square)](https://attack.mitre.org/)
-[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-C0392B?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-cyber-kill-chain)
-[![Log Analysis](https://img.shields.io/badge/Log_Analysis-1E8449?style=flat-square)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/next-gen-siem/log-analysis/)
-
 ### GRC & Conformité
 [![ISO 27001](https://img.shields.io/badge/ISO_27001-005A8E?style=flat-square)](https://www.iso27001security.com/)
 [![NIST CSF](https://img.shields.io/badge/NIST_CSF-1F618D?style=flat-square)](https://www.proofpoint.com/fr/threat-reference/nist-cybersecurity-framework)
@@ -73,6 +65,15 @@ Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en
 [![TPRM](https://img.shields.io/badge/TPRM-154360?style=flat-square)](https://www.servicenow.com/fr/products/governance-risk-and-compliance/what-is-third-party-risk-management.html)
 [![Risk Management](https://img.shields.io/badge/Risk_Management-1B4F72?style=flat-square)](https://www.cnil.fr/fr/securite-analyse-de-risques)
 [![GRC](https://img.shields.io/badge/GRC-6C3483?style=flat-square)](https://www.trendmicro.com/fr_fr/what-is/governance-risk-management-and-compliance-grc.html)
+
+### SOC & Technique
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)](https://docs.splunk.com/Documentation/Splunk)
+[![SIEM](https://img.shields.io/badge/SIEM-117A65?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-siem)
+[![Sysmon](https://img.shields.io/badge/Sysmon-196F3D?style=flat-square)](https://learn.microsoft.com/fr-fr/sysinternals/downloads/sysmon)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E74C3C?style=flat-square)](https://attack.mitre.org/)
+[![Cyber Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-C0392B?style=flat-square)](https://www.microsoft.com/fr-fr/security/business/security-101/what-is-cyber-kill-chain)
+[![Log Analysis](https://img.shields.io/badge/Log_Analysis-1E8449?style=flat-square)](https://www.crowdstrike.com/fr-fr/cybersecurity-101/next-gen-siem/log-analysis/)
+
 
 ### Pentest
 [![Nmap](https://img.shields.io/badge/Nmap-4a9eff?style=flat-square)](https://nmap.org/)
@@ -93,9 +94,9 @@ Actuellement en préparation de l'eJPT, avec des projets pratiques SOC et GRC en
 
 | Projet | Statut | Description |
 |--------|--------|-------------|
+| [GRC_Projects](https://github.com/juniorabakar/GRC-projects) | `EN COURS` | SMSI · NIST CSF · TPRM · Réponse aux incidents |
 | [Mon_SOC_LAB](https://github.com/juniorabakar/Mon_SOC_LAB) | `TERMINE` | Simulation MITRE T1547 · Splunk · Sysmon |
 | [SOC_Alerts](https://github.com/juniorabakar/SOC_Alerts) | `ACTIF` | Write-ups alertes SOC · Phishing · Malware |
-| [GRC_Projects](https://github.com/juniorabakar/GRC-projects) | `EN COURS` | SMSI · NIST CSF · TPRM · Réponse aux incidents |
 | [Pentest_Labs](https://github.com/juniorabakar/Pentest-Labs) | `ACTIF` | Labs eJPT · Recon · Exploitation |
 
 
