@@ -24,11 +24,11 @@
 <div align="center">
 
 [![CompTIA Security+](https://images.credly.com/size/150x150/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/ad1a6a18-c94d-49d7-9495-4338c5a701a4)
+[![ISO 27001 Lead Auditor](https://images.credly.com/size/150x150/images/e751d38f-3b06-4be1-b127-240cb097cf70/blob)](https://www.credly.com/badges/cf034a35-b54f-4ea0-aa47-bb982f0b1dab)
+[![GRC Mastery](https://images.credly.com/size/150x150/images/e371784e-6b30-4177-bea5-ad0838679da3/blob)](https://www.credly.com/badges/559747af-8903-40c0-95aa-8ac8a6c32c43)
 <a href="https://app.letsdefend.io/certificate/show/fd5e50a5-6855-4643-97cb-dbfab65f0a88">
   <img src="https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/Letsdefend_badge.png" width="150"/>
 </a>
-[![ISO 27001 Lead Auditor](https://images.credly.com/size/150x150/images/e751d38f-3b06-4be1-b127-240cb097cf70/blob)](https://www.credly.com/badges/cf034a35-b54f-4ea0-aa47-bb982f0b1dab)
-[![GRC Mastery](https://images.credly.com/size/150x150/images/e371784e-6b30-4177-bea5-ad0838679da3/blob)](https://www.credly.com/badges/559747af-8903-40c0-95aa-8ac8a6c32c43)
 
 
 </div>
