@@ -2,7 +2,7 @@
 
 ![opening](https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20GRC%20sans%20technique%20est%20un%20plan.%20La%20technique%20sans%20GRC%20est%20un%20chaos.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Auditeur%20Cybersécurité&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Consultant%20Cybersécurité&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=Audit+%C2%B7+Gouvernance+%C2%B7+Risques+%C2%B7+Conformité;ISO+27001+Lead+Auditor+%C2%B7+CompTIA+Security%2B;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK;Master+2+Cybersécurité+—+Université+de+Rennes+1;eJPT+en+cours+%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
 
@@ -13,9 +13,9 @@
 
 > Bonjour, je m'appelle **Junior Abakar**, diplômé en cybersécurité.
 >
-> Je me destine au métier d'**auditeur cybersécurité**, avec un intérêt particulier pour les **audits techniques et de conformité**. Mon objectif est d'accompagner les organisations dans l'analyse de leurs risques et leur mise en conformité, en m'appuyant sur une culture technique solide acquise à travers des projets SOC et pentest, et sur des certifications telles que l'**ISO 27001 Lead Auditor** et la **CompTIA Security+**.
+> Je me spécialise en **consultation cybersécurité**, avec un intérêt particulier pour les **audits techniques et de conformité**. Mon objectif est d'accompagner les organisations dans l'analyse de leurs risques et leur mise en conformité, en m'appuyant sur une culture technique solide acquise à travers des projets SOC et pentest, et sur des certifications telles que l'**ISO 27001 Lead Auditor** et la **CompTIA Security+**.
 >
-> Je recherche activement un poste d'**auditeur cybersécurité** en Île-de-France ou en télétravail.
+> Je recherche activement un poste de **consultant cybersécurité GRC** en Île-de-France ou en télétravail.
 
 ---
 
