@@ -1,6 +1,6 @@
 <div align="center">
 
-![opening](https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20GRC%20sans%20technique%20est%20un%20plan.%20La%20technique%20sans%20GRC%20est%20un%20chaos.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn)
+![opening](https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20technique%20sans%20gouvernance%20prot%C3%A8ge%20mal.%20La%20gouvernance%20sans%20technique%20prot%C3%A8ge%20sur%20le%20papier.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Consultant%20Cybersécurité&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
 
