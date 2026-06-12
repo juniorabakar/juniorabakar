@@ -30,7 +30,9 @@
 <a href="https://app.letsdefend.io/certificate/show/fd5e50a5-6855-4643-97cb-dbfab65f0a88">
   <img src="https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/Letsdefend_badge.png" width="150"/>
 </a>
-
+<a href="https://certs.ine.com/f65bae77-9d66-41c3-89cc-f3d583e01b0c#acc.k3JEMWGO">
+<img width="150" alt="Capture d&#39;écran 2026-06-12 130645" src="https://github.com/user-attachments/assets/c5a4790c-3ccf-4a56-b607-46ed748335ad" />
+</a>
 
 </div>
 
