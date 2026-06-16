@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![terminal](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/terminal.svg)
+![terminal](https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/terminal_cv_github_readme.svg)
 
 <div align="center">
 <sub>
