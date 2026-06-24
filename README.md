@@ -15,7 +15,7 @@
 >
 > Je me spécialise en **cybersécurité GRC**, avec un intérêt particulier pour **les audits de conformité et applicatifs**. Mon objectif est d'accompagner les organisations dans la compréhension et le traitement de leurs risques, en m'appuyant sur une culture technique construite à travers des projets SOC et pentest, et sur des certifications telles que l'ISO 27001 Lead Auditor et la CompTIA Security+. Ce qui me distingue : la capacité à naviguer entre les enjeux métier et les réalités techniques, et à produire des livrables exploitables par des équipes aussi bien opérationnelles que dirigeantes.
 >
-> Je recherche activement un poste de **consultant cybersécurité GRC**.
+> Je recherche activement un poste de **consultant cybersécurité GRC** ou en **analyse SOC**.
 
 ---
 
