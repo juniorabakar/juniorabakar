@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Consultant%20Cybersécurité&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=Audit+%C2%B7+Gouvernance+%C2%B7+Risques+%C2%B7+Conformité;ISO+27001+Lead+Auditor+%C2%B7+CompTIA+Security%2B;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK;Master+2+Cybersécurité+—+Université+de+Rennes+1;eJPT+en+cours+%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=Audit+%C2%B7+Gouvernance+%C2%B7+Risques+%C2%B7+Conformité;ISO+27001+Lead+Auditor+%C2%B7+CompTIA+Security%2B;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK;Master+2+Cybersécurité+—+Université+de+Rennes+1;eJPT+%C2%B7+BTL1+en+cours%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
 
 </div>
 
