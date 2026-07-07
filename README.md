@@ -2,20 +2,27 @@
 
 ![opening](https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20technique%20sans%20gouvernance%20prot%C3%A8ge%20mal.%20La%20gouvernance%20sans%20technique%20prot%C3%A8ge%20sur%20le%20papier.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Consultant%20Cybersécurité&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Analyste%20SOC%20Junior&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=Audit+%C2%B7+Gouvernance+%C2%B7+Risques+%C2%B7+Conformité;ISO+27001+Lead+Auditor+%C2%B7+CompTIA+Security%2B;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK;Master+2+Cybersécurité+—+Université+de+Rennes+1;eJPT+%C2%B7+BTL1+en+cours%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=SOC+%C2%B7+Détection+%C2%B7+Incident+Response+%C2%B7+Threat+Intelligence;Splunk+%C2%B7+MITRE+ATT%26CK+%C2%B7+Sysmon+%C2%B7+Wireshark;CompTIA+Security%2B+%C2%B7+eJPT+%C2%B7+BTL1+en+cours;Master+2+Cybersécurité+—+Université+de+Rennes+1;ISO+27001+Lead+Auditor+%C2%B7+Disponible+immédiatement)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-
 > Bonjour, je m'appelle **Junior Abakar**, diplômé en cybersécurité.
 >
-> Je me spécialise en **cybersécurité GRC**, avec un intérêt particulier pour **les audits de conformité et applicatifs**. Mon objectif est d'accompagner les organisations dans la compréhension et le traitement de leurs risques, en m'appuyant sur une culture technique construite à travers des projets SOC et pentest, et sur des certifications telles que l'ISO 27001 Lead Auditor et la CompTIA Security+. Ce qui me distingue : la capacité à naviguer entre les enjeux métier et les réalités techniques, et à produire des livrables exploitables par des équipes aussi bien opérationnelles que dirigeantes.
+> Mon parcours part d'un constat simple : en GRC, on modélise ce qui pourrait arriver. Dans un SOC, on observe ce qui est en train d'arriver. J'ai commencé par l'un. Il était temps de voir l'autre.
 >
-> Je recherche activement un poste de **consultant cybersécurité GRC** ou en **analyse SOC**.
+> Six mois chez **Volkswagen Financial Services** aux côtés du RSSI, du DPO et des équipes IT : conformité RGPD, évaluations de risques tiers (TPRM), registre des risques SI. Autant de contexte concret sur ce que les analystes SOC ont pour mission de protéger au quotidien.
+>
+> Ce que vous trouverez sur ce GitHub : des labs SOC construits avec Splunk et Sysmon, des scénarios de détection basés sur MITRE ATT&CK, des write-ups d'alertes, et des labs de pentest pour comprendre les techniques d'attaque avant de les détecter. La GRC, elle, est documentée à travers un SMSI ISO 27001 complet sur un scénario HealthTech fictif.
+>
+> Ce qui me différencie : quand une alerte remonte, je sais évaluer son impact, pas seulement technique, mais métier et réglementaire.
+>
+> **Certifications :** CompTIA Security+ · eJPT · ISO 27001 Lead Auditor · BTL1 *(en cours)*
+>
+> Je recherche activement un poste d'**Analyste SOC junior** en CDI, en France.
 
 ---
 
