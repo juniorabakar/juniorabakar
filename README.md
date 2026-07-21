@@ -22,7 +22,7 @@
 >
 > **Certifications :** CompTIA Security+ · eJPT · ISO 27001 Lead Auditor · BTL1 *(en cours)*
 >
-> Je recherche activement un poste d'**Analyste SOC junior** en CDI, en France.
+> Je recherche activement un poste d'**Analyste SOC junior** ou d'**Ingénieur DevOps** en CDI, en France.
 
 ---
 
@@ -105,6 +105,8 @@ Diplômé d'un Master 2 Cybersécurité à l'Université de Rennes 1, après un 
 | [Mon_SOC_LAB](https://github.com/juniorabakar/Mon_SOC_LAB) | `TERMINE` | Simulation MITRE T1547 · Splunk · Sysmon |
 | [SOC_Alerts](https://github.com/juniorabakar/SOC_Alerts) | `ACTIF` | Write-ups alertes SOC · Phishing · Malware |
 | [Pentest_Labs](https://github.com/juniorabakar/Pentest-Labs) | `ACTIF` | Labs eJPT · Recon · Exploitation |
+| [Projets_Devops](https://github.com/juniorabakar/projet-devops) | `ACTIF` | IaC, automatisation, conteneurs et orchestration DevOps |
+| [Techniques_tests](https://github.com/juniorabakar/ceri-m1-techniques-de-test) | `TERMINE` | Java, tests automatisés, CI et qualité logicielle. |
 
 
 
