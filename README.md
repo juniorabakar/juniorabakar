@@ -1,10 +1,9 @@
 <div align="center">
-![opening](https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20technique%20sans%20gouvernance%20prot%C3%A8ge%20mal.%20La%20gouvernance%20sans%20technique%20prot%C3%A8ge%20sur%20le%20papier.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn)
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybers%C3%A9curit%C3%A9%20%C2%B7%20SOC%20%C2%B7%20DevOps&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn)
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=SOC+%C2%B7+D%C3%A9tection+%C2%B7+Incident+Response+%C2%B7+Threat+Intelligence;CI%2FCD+%C2%B7+GitHub+Actions+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+Python;Splunk+%C2%B7+MITRE+ATT%26CK+%C2%B7+Sysmon+%C2%B7+Wireshark;CompTIA+Security%2B+%C2%B7+eJPT+%C2%B7+ISO+27001+LA+%C2%B7+BTL1+en+cours;Master+2+Cybers%C3%A9curit%C3%A9+%C2%B7+Universit%C3%A9+de+Rennes+1;Disponible+imm%C3%A9diatement)](https://git.io/typing-svg)
- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020812,100:050e1f&height=80&text=La%20technique%20sans%20gouvernance%20prot%C3%A8ge%20mal.%20La%20gouvernance%20sans%20technique%20prot%C3%A8ge%20sur%20le%20papier.&fontSize=15&fontColor=4a9eff&fontAlignY=55&animation=fadeIn" alt="La technique sans gouvernance protège mal" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybers%C3%A9curit%C3%A9%20%C2%B7%20SOC%20%C2%B7%20DevOps&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn" alt="Junior Abakar, Cybersécurité, SOC, DevOps" width="100%"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=SOC+%C2%B7+D%C3%A9tection+%C2%B7+Incident+Response+%C2%B7+Threat+Intelligence;CI%2FCD+%C2%B7+GitHub+Actions+%C2%B7+Docker+%C2%B7+Linux+%C2%B7+Python;Splunk+%C2%B7+MITRE+ATT%26CK+%C2%B7+Sysmon+%C2%B7+Wireshark;CompTIA+Security%2B+%C2%B7+eJPT+%C2%B7+ISO+27001+LA+%C2%B7+BTL1+en+cours;Master+2+Cybers%C3%A9curit%C3%A9+%C2%B7+Universit%C3%A9+de+Rennes+1;Disponible+imm%C3%A9diatement" alt="Compétences" />
+</a>
 </div>
 ---
  
@@ -124,4 +123,4 @@ Diplômé d'un Master 2 Cybersécurité à l'Université de Rennes 1, après un 
 [![LinkedIn](https://img.shields.io/badge/junior--abakar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-abakar-551150265/)
  
 </div>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d2a4a,50:0a1e3d,100:020812&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2a4a,50:0a1e3d,100:020812&height=120&section=footer" alt="" width="100%"/>
