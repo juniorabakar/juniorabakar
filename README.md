@@ -14,7 +14,7 @@
 >
 > Mon parcours part d'un constat simple : en GRC, on modélise ce qui pourrait arriver. Dans un SOC, on observe ce qui est en train d'arriver. J'ai commencé par l'un. Il était temps de voir l'autre.
 >
-> Six mois chez **Volkswagen Financial Services** aux côtés du RSSI, du DPO et des équipes IT : conformité RGPD, évaluations de risques tiers (TPRM), registre des risques SI. Autant de contexte concret sur ce que les analystes SOC ont pour mission de protéger au quotidien.
+> Six mois chez **Volkswagen Financial Services** aux côtés du RSSI, du DPO et des équipes IT : conformité RGPD, évaluations de risques tiers (TPRM), registre des traitements sous DASTRA. Autant de contexte concret sur ce que les analystes SOC ont pour mission de protéger au quotidien.
 >
 > Ce que vous trouverez sur ce GitHub : des labs SOC construits avec Splunk et Sysmon, des scénarios de détection basés sur MITRE ATT&CK, des write-ups d'alertes, et des labs de pentest pour comprendre les techniques d'attaque avant de les détecter. La GRC, elle, est documentée à travers un SMSI ISO 27001 complet sur un scénario HealthTech fictif.
 >
