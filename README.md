@@ -22,7 +22,6 @@
 >
 > Ce qui me différencie : je sais évaluer l'impact d'un constat de sécurité, pas seulement technique, mais métier et réglementaire. **Et je lis le code et les configurations que j'audite.**
 >
-> **Certifications :** ISO 27001 Lead Auditor · BTL1 · CompTIA Security+ · eJPT
 >
 > Je recherche activement un poste de **Consultant GRC junior** en CDI, en cabinet ou en ESN, en France.
 
@@ -32,18 +31,14 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/cf034a35-b54f-4ea0-aa47-bb982f0b1dab"><img src="https://images.credly.com/size/150x150/images/e751d38f-3b06-4be1-b127-240cb097cf70/blob" width="150" alt="ISO 27001 Lead Auditor"/></a>
-<a href="https://www.credly.com/badges/ad1a6a18-c94d-49d7-9495-4338c5a701a4"><img src="https://images.credly.com/size/150x150/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="150" alt="CompTIA Security+"/></a>
-<a href="https://www.credly.com/badges/559747af-8903-40c0-95aa-8ac8a6c32c43"><img src="https://images.credly.com/size/150x150/images/e371784e-6b30-4177-bea5-ad0838679da3/blob" width="150" alt="GRC Mastery"/></a>
-<a href="https://certs.ine.com/f65bae77-9d66-41c3-89cc-f3d583e01b0c#acc.k3JEMWGO"><img width="150" alt="eJPT" src="https://github.com/user-attachments/assets/c5a4790c-3ccf-4a56-b607-46ed748335ad" /></a>
-<a href="https://www.credly.com/badges/3fd7e64d-0270-4a9a-9dd1-f6f644a3f5b9"><img width="150" alt="BTL1" src="https://github.com/user-attachments/assets/c5a4790c-3ccf-4a56-b607-46ed748335ad" /></a>
-<a href="https://app.letsdefend.io/certificate/show/fd5e50a5-6855-4643-97cb-dbfab65f0a88"><img src="https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/Letsdefend_badge.png" width="150" alt="LetsDefend"/></a>
+<a href="https://www.credly.com/badges/559747af-8903-40c0-95aa-8ac8a6c32c43"><img height="110" alt="ISO 27001 Lead Auditor" src="https://images.credly.com/size/150x150/images/e371784e-6b30-4177-bea5-ad0838679da3/blob"/></a>
+<a href="https://www.credly.com/badges/3fd7e64d-0270-4a9a-9dd1-f6f644a3f5b9"><img height="110" alt="BTL1" src="https://github.com/user-attachments/assets/cd4dc9e3-6332-426f-acfe-e9e0fc525b19"/></a>
+<a href="https://www.credly.com/badges/ad1a6a18-c94d-49d7-9495-4338c5a701a4"><img height="110" alt="CompTIA Security+" src="https://images.credly.com/size/150x150/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob"/></a>
+<a href="https://certs.ine.com/f65bae77-9d66-41c3-89cc-f3d583e01b0c#acc.k3JEMWGO"><img height="110" alt="eJPT" src="https://github.com/user-attachments/assets/2790d1fa-b7f1-4046-a961-fb2aaa018a26"/></a>
+<a href="https://www.credly.com/badges/cf034a35-b54f-4ea0-aa47-bb982f0b1dab"><img height="110" alt="GRC Mastery" src="https://images.credly.com/size/150x150/images/e751d38f-3b06-4be1-b127-240cb097cf70/blob"/></a>
 
 </div>
 
-<div align="center">
-<sub>BTL1 (Blue Team Level 1) · Centri · septembre 2026 · Introduction à la méthode EBIOS Risk Manager · Club EBIOS · mars 2026</sub>
-</div>
 
 ---
 
