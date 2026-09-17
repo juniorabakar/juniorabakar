@@ -22,7 +22,6 @@
 >
 > Ce qui me différencie : je sais évaluer l'impact d'un constat de sécurité, pas seulement technique, mais métier et réglementaire. **Et je lis le code et les configurations que j'audite.**
 >
->
 > Je recherche activement un poste de **Consultant GRC junior** en CDI, en cabinet ou en ESN, en France.
 
 ---
