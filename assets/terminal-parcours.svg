@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 462" width="840" height="462" role="img" aria-label="Parcours de Junior Abakar, consultant GRC junior">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1426"/>
+      <stop offset="100%" stop-color="#070e1b"/>
+    </linearGradient>
+    <style>
+      .m { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .p  { fill:#4a9eff; font-size:13.5px; }
+      .c  { fill:#8fb3d9; font-size:13.5px; }
+      .t  { fill:#dbe7f5; font-size:13.5px; }
+      .d  { fill:#6c839f; font-size:13.5px; }
+      .k  { fill:#7ee3c7; font-size:13.5px; }
+      .b  { font-weight:700; }
+      .cap{ fill:#5a6f8a; font-size:11.5px; letter-spacing:.6px; }
+      @keyframes blink { 0%,45% {opacity:1} 55%,100% {opacity:0} }
+      .cur { animation: blink 1.15s steps(1,end) infinite; }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="839" height="461" rx="10" fill="url(#bg)" stroke="#1b2c47"/>
+  <rect x="0.5" y="0.5" width="839" height="36" rx="10" fill="#0d1a2e"/>
+  <rect x="0.5" y="26" width="839" height="11" fill="#0d1a2e"/>
+  <line x1="0.5" y1="36.5" x2="839.5" y2="36.5" stroke="#1b2c47"/>
+
+  <circle cx="22" cy="18.5" r="5" fill="#3d4d66"/>
+  <circle cx="40" cy="18.5" r="5" fill="#3d4d66"/>
+  <circle cx="58" cy="18.5" r="5" fill="#3d4d66"/>
+  <text class="m cap" x="420" y="23" text-anchor="middle">parcours — junior abakar</text>
+
+  <g class="m">
+    <text x="24" y="70"><tspan class="p b">junior@cyber</tspan><tspan class="d">:~$ </tspan><tspan class="c">whoami</tspan></text>
+    <text x="24" y="92"  class="t b">Junior Abakar  ·  Consultant GRC junior</text>
+    <text x="24" y="112" class="d">Audit  ·  Conformité  ·  Gestion des risques  ·  Je lis le code que j'audite</text>
+
+    <text x="24" y="150"><tspan class="p b">junior@cyber</tspan><tspan class="d">:~$ </tspan><tspan class="c">cat formation.md</tspan></text>
+    <text x="24" y="172"><tspan class="k">2025</tspan><tspan class="t">   M2 Cybersécurité</tspan><tspan class="d">            Université de Rennes 1</tspan></text>
+    <text x="24" y="194"><tspan class="k">2024</tspan><tspan class="t">   M1 Ingénierie du Logiciel</tspan><tspan class="d">   Avignon Université</tspan></text>
+    <text x="24" y="216"><tspan class="k">2023</tspan><tspan class="t">   Licence Informatique</tspan><tspan class="d">        Université d'Angers</tspan></text>
+
+    <text x="24" y="254"><tspan class="p b">junior@cyber</tspan><tspan class="d">:~$ </tspan><tspan class="c">cat experience.md</tspan></text>
+    <text x="24" y="276"><tspan class="t b">Volkswagen Financial Services</tspan><tspan class="d">   ·  6 mois  ·  Roissy-en-France</tspan></text>
+    <text x="24" y="298" class="d">  Juridique &amp; Conformité  —  établissement supervisé par l'ACPR</text>
+    <text x="24" y="320" class="t">  Registre des traitements  ·  Risques d'externalisation (ORA)  ·  AIPD</text>
+
+    <text x="24" y="358"><tspan class="p b">junior@cyber</tspan><tspan class="d">:~$ </tspan><tspan class="c">ls certifications/</tspan></text>
+    <text x="24" y="380"><tspan class="k">ISO27001-LeadAuditor</tspan><tspan class="d">   </tspan><tspan class="k">BTL1</tspan><tspan class="d">   </tspan><tspan class="k">Security+</tspan><tspan class="d">   </tspan><tspan class="k">eJPT</tspan><tspan class="d">   </tspan><tspan class="k">EBIOS-RM</tspan></text>
+
+    <text x="24" y="418"><tspan class="p b">junior@cyber</tspan><tspan class="d">:~$ </tspan><tspan class="c">status</tspan></text>
+    <text x="24" y="440"><tspan class="k">●</tspan><tspan class="t"> Disponible immédiatement</tspan><tspan class="d">  ·  France entière  ·  CDI</tspan><tspan class="cur" fill="#4a9eff"> ▌</tspan></text>
+  </g>
+</svg>
