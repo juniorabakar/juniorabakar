@@ -46,8 +46,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/terminal_cv_github_readme.svg" alt="Parcours" />
-
+<img src="https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/terminal-parcours.svg" alt="Parcours" /> <br>
 <sub>
 Diplômé d'un <b>Master 2 Cybersécurité</b> à l'Université de Rennes 1, après un <b>Master 1 Ingénierie du Logiciel</b> à Avignon et une <b>Licence Informatique</b> à Angers.
 <br>
@@ -69,7 +68,6 @@ Diplômé d'un <b>Master 2 Cybersécurité</b> à l'Université de Rennes 1, apr
 [![RGPD](https://img.shields.io/badge/RGPD-2471A3?style=flat-square)](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on)
 [![TPRM](https://img.shields.io/badge/TPRM-154360?style=flat-square)](https://www.servicenow.com/fr/products/governance-risk-and-compliance/what-is-third-party-risk-management.html)
 [![Risk Management](https://img.shields.io/badge/Analyse_de_risques-1B4F72?style=flat-square)](https://www.cnil.fr/fr/securite-analyse-de-risques)
-[![EBIOS RM](https://img.shields.io/badge/EBIOS_RM-4A235A?style=flat-square)](https://cyber.gouv.fr/la-methode-ebios-risk-manager)
 [![NIST CSF](https://img.shields.io/badge/NIST_CSF-1F618D?style=flat-square)](https://www.proofpoint.com/fr/threat-reference/nist-cybersecurity-framework)
 
 ### Détection &amp; réponse
@@ -123,7 +121,7 @@ Diplômé d'un <b>Master 2 Cybersécurité</b> à l'Université de Rennes 1, apr
 
 📍 France &nbsp;·&nbsp; 🌐 Télétravail ou présentiel &nbsp;·&nbsp; ✅ Disponible immédiatement
 
-[![Email](https://img.shields.io/badge/juniorabakar07@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juniorabakar07@gmail.com)
+[![Email](https://img.shields.io/badge/abakar07junior@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abakar07junior@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/junior--abakar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-abakar-551150265/)
 
 </div>
