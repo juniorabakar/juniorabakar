@@ -36,6 +36,7 @@
 <a href="https://www.credly.com/badges/ad1a6a18-c94d-49d7-9495-4338c5a701a4"><img src="https://images.credly.com/size/150x150/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="150" alt="CompTIA Security+"/></a>
 <a href="https://www.credly.com/badges/559747af-8903-40c0-95aa-8ac8a6c32c43"><img src="https://images.credly.com/size/150x150/images/e371784e-6b30-4177-bea5-ad0838679da3/blob" width="150" alt="GRC Mastery"/></a>
 <a href="https://certs.ine.com/f65bae77-9d66-41c3-89cc-f3d583e01b0c#acc.k3JEMWGO"><img width="150" alt="eJPT" src="https://github.com/user-attachments/assets/c5a4790c-3ccf-4a56-b607-46ed748335ad" /></a>
+<a href="https://www.credly.com/badges/3fd7e64d-0270-4a9a-9dd1-f6f644a3f5b9"><img width="150" alt="BTL1" src="https://github.com/user-attachments/assets/c5a4790c-3ccf-4a56-b607-46ed748335ad" /></a>
 <a href="https://app.letsdefend.io/certificate/show/fd5e50a5-6855-4643-97cb-dbfab65f0a88"><img src="https://raw.githubusercontent.com/juniorabakar/juniorabakar/main/assets/Letsdefend_badge.png" width="150" alt="LetsDefend"/></a>
 
 </div>
