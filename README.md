@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050e1f,40:0a1e3d,100:0d2a4a&height=200&section=header&text=Junior%20ABAKAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=GRC%20%C2%B7%20Audit%20%C2%B7%20Conformit%C3%A9%20%C2%B7%20Assise%20technique&descColor=4a9eff&descSize=20&descAlignY=58&animation=fadeIn" alt="Junior Abakar, GRC, audit, conformité" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=GRC+%C2%B7+Audit+%C2%B7+Conformit%C3%A9+%C2%B7+Gestion+des+risques;ISO+27001+Lead+Auditor+%C2%B7+RGPD+%C2%B7+TPRM+%C2%B7+EBIOS+RM;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK+%C2%B7+CI%2FCD;Security%2B+%C2%B7+eJPT+%C2%B7+BTL1+%C2%B7+ISO+27001+LA;Master+2+Cybers%C3%A9curit%C3%A9+%C2%B7+Universit%C3%A9+de+Rennes+1;Disponible+imm%C3%A9diatement" alt="Compétences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=4A9EFF&center=true&vCenter=true&width=700&lines=GRC+%C2%B7+Audit+%C2%B7+Conformit%C3%A9+%C2%B7+Gestion+des+risques;ISO+27001+Lead+Auditor+%C2%B7+RGPD+%C2%B7+TPRM;Splunk+%C2%B7+Sysmon+%C2%B7+MITRE+ATT%26CK+%C2%B7+CI%2FCD;Security%2B+%C2%B7+eJPT+%C2%B7+BTL1+%C2%B7+ISO+27001+LA;Master+2+Cybers%C3%A9curit%C3%A9+%C2%B7+Universit%C3%A9+de+Rennes+1;Disponible+imm%C3%A9diatement" alt="Compétences" />
 </a>
 
 </div>
