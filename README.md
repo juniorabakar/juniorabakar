@@ -16,7 +16,7 @@
 >
 > **On n'audite bien que ce qu'on sait lire.** J'ai été formé au développement avant la sécurité, et c'est ce qui me permet de traiter la conformité là où elle se joue vraiment : dans le code, dans les configurations, et dans les conversations entre des gens qui n'ont ni le même vocabulaire ni les mêmes contraintes.
 >
-> Six mois chez **Volkswagen Financial Services**, au département Juridique et Conformité d'un établissement financier supervisé par l'ACPR : conformité RGPD, **registre des traitements sous DASTRA**, évaluations de risques d'externalisation (**ORA**) et accompagnement des **AIPD**, en interface quotidienne avec le RSSI, le DPO et les équipes IT.
+> Six mois chez **Volkswagen Financial Services**, au département Juridique et Conformité d'un établissement financier : conformité RGPD, **registre des traitements**, évaluations de risques d'externalisation (**ORA**) et accompagnement des **AIPD**, en interface quotidienne avec le RSSI, le DPO et les équipes IT.
 >
 > Ce que vous trouverez sur ce GitHub : un **SMSI ISO 27001 en construction** sur un scénario HealthTech fictif, une **chaîne CI/CD cassée volontairement quatre fois** avec son journal des pannes, un **laboratoire de détection Splunk et Sysmon**, des write-ups d'alertes, et des labs offensifs pour comprendre les techniques d'attaque avant d'avoir à les corriger.
 >
